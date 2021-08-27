@@ -1,0 +1,107 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 2760336 */
+  src: url('iconfont.woff2?t=1629656938065') format('woff2'),
+       url('iconfont.woff?t=1629656938065') format('woff'),
+       url('iconfont.ttf?t=1629656938065') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-dingdan:before {
+  content: "\e6db";
+}
+
+.icon-VIP:before {
+  content: "\e604";
+}
+
+.icon-shouji:before {
+  content: "\e619";
+}
+
+.icon-photo:before {
+  content: "\e603";
+}
+
+.icon-jifen:before {
+  content: "\e626";
+}
+
+.icon-gouwu:before {
+  content: "\e602";
+}
+
+.icon-CheckCircle:before {
+  content: "\e692";
+}
+
+.icon-close:before {
+  content: "\e694";
+}
+
+.icon-menu:before {
+  content: "\e866";
+}
+
+.icon-share:before {
+  content: "\e867";
+}
+
+.icon-kefu:before {
+  content: "\e868";
+}
+
+.icon-qiye:before {
+  content: "\e869";
+}
+
+.icon-favorite:before {
+  content: "\e86a";
+}
+
+.icon-bad:before {
+  content: "\e600";
+}
+
+.icon-good:before {
+  content: "\e601";
+}
+
+.icon-MSite:before {
+  content: "\e612";
+}
+
+.icon-Order:before {
+  content: "\e614";
+}
+
+.icon-Search:before {
+  content: "\e61c";
+}
+
+.icon-Profile:before {
+  content: "\e61b";
+}
+
+.icon-dash:before {
+  content: "\e611";
+}
+
+.icon-arrowsRight:before {
+  content: "\e613";
+}
+
+.icon-arrowsLeft:before {
+  content: "\e616";
+}
+
+.icon-plus:before {
+  content: "\e617";
+}
+
